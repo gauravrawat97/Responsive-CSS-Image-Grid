@@ -1,0 +1,33 @@
+body
+
+{
+    font-family: 'Poor Story', cursive;
+
+}
+
+
+p
+{
+  font-size:30px;
+  margin-left: 1.33%;
+  text-transform:uppercase;  
+  border-bottom: 3px solid black;
+  width:20%;
+  padding-bottom: 20px;
+}
+
+
+
+img
+{
+    width:30%;
+    float:left;
+    margin: 1.22%;
+    border: 2px solid black;
+}
+
+
+div
+{
+    border: 2px solid black;
+}
